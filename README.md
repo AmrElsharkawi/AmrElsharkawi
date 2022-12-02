@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aalsharkaw" target="blank"><img src="https://img.shields.io/twitter/follow/aalsharkaw?logo=twitter&style=for-the-badge" alt="aalsharkaw" /></a> </p>
 
-- 🔭 I’m currently working on **09 Continuous Delivery of Java Web Application**
+- 🔭 I’m currently working on ** Continuous Delivery of Java Web Application**
 
 - 🌱 I’m currently learning **terraform ,AWS Certified Solutions Architect**
 

@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ** Continuous Delivery of Java Web Application**
 
-- 🌱 I’m currently learning **terraform ,AWS Certified Solutions Architect**
+- 🌱 I’m currently learning **Azure DevOps**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1IeBUljwePlSy2CF4jD8PRZ_7rlGQmH6s?usp=share_link](https://drive.google.com/drive/folders/1IeBUljwePlSy2CF4jD8PRZ_7rlGQmH6s?usp=share_link)
 
